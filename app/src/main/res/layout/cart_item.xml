@@ -1,0 +1,45 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp"
+    android:background="#fff"
+    android:layout_marginBottom="8dp">
+
+    <TextView
+        android:id="@+id/txtCartMedicineName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:text="Medicine: "
+        android:textColor="#2A3D66"
+        android:textSize="15sp"/>
+
+    <TextView
+        android:id="@+id/txtCartQuantity"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Qty: "
+        android:textColor="#2A3D66"
+        android:textSize="15sp"/>
+
+    <TextView
+        android:id="@+id/txtCartPrice"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Price: "
+        android:textColor="#2A3D66"
+        android:textSize="15sp"/>
+
+    <TextView
+        android:id="@+id/txtCartTotal"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Total: "
+        android:textColor="#FF9F45"
+        android:textSize="15sp"
+        android:textStyle="bold"/>
+</LinearLayout>

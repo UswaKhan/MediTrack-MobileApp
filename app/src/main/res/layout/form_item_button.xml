@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/buttonSubmit"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Add Medicine"
+    android:backgroundTint="#FF9F45"
+    android:textColor="#fff"
+    android:textStyle="bold"
+    android:layout_marginTop="28dp"
+    android:padding="14dp"
+    android:background="@drawable/rounded_button"/>

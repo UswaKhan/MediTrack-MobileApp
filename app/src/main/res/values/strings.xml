@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MediTrack</string>
+    <string name="medicine_details">Medicine details</string>
+</resources>
