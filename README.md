@@ -28,7 +28,7 @@
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 MediTrack/
 ├── app/
@@ -64,7 +64,7 @@ app/google-services.json
 
 ---
 
-## 🧪 How to Run the App
+## How to Run the App
 
 1. Clone the repo:
 git clone https://github.com/UswaKhan/MediTrack-MobileApp.git
@@ -88,13 +88,13 @@ git clone https://github.com/UswaKhan/MediTrack-MobileApp.git
 
 ---
 
-## 📃 License
+## License
 
 This project is open-source and free to use under the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
 
-## 🙌 Author
+## Author
 
 Developed by **Uswa Ahmad Khan**  
 BSc Computer Science – University of Engineering and Technology  
