@@ -28,28 +28,6 @@
 
 ---
 
-## Project Structure
-
-MediTrack/
-├── app/
-│ ├── java/
-│ │ └── com.example.meditrack/
-│ │ ├── activities/
-│ │ ├── adapters/
-│ │ ├── models/
-│ │ └── firebase/
-│ ├── res/
-│ │ ├── layout/
-│ │ ├── drawable/
-│ │ └── values/
-├── google-services.json # Firebase config
-├── build.gradle # App-level config
-├── .gitignore # Ignore unnecessary files
-└── README.md 
-
-
----
-
 ## Firebase Setup Instructions
 
 1. Go to [https://console.firebase.google.com](https://console.firebase.google.com)
