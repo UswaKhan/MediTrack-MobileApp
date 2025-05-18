@@ -66,12 +66,6 @@ git clone https://github.com/UswaKhan/MediTrack-MobileApp.git
 
 ---
 
-## License
-
-This project is open-source and free to use under the [MIT License](https://opensource.org/licenses/MIT).
-
----
-
 ## Author
 
 Developed by **Uswa Ahmad Khan**  
